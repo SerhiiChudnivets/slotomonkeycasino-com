@@ -147,64 +147,40 @@
   "color_main_btn_text": null,
   "redirect_link": "https://visquick.com/go",
   "logo": {
-    "id": 82,
+    "id": 111,
     "name": "logo.webp",
-    "url": "/uploads/logo_b768a67d84.webp",
+    "url": "/uploads/logo_4b74a97ec8.webp",
     "formats": {
-      "small": {
-        "ext": ".webp",
-        "url": "/uploads/small_logo_b768a67d84.webp",
-        "hash": "small_logo_b768a67d84",
-        "mime": "image/webp",
-        "name": "small_logo.webp",
-        "path": null,
-        "size": 23.25,
-        "width": 500,
-        "height": 411,
-        "sizeInBytes": 23246
-      },
       "thumbnail": {
         "ext": ".webp",
-        "url": "/uploads/thumbnail_logo_b768a67d84.webp",
-        "hash": "thumbnail_logo_b768a67d84",
+        "url": "/uploads/thumbnail_logo_4b74a97ec8.webp",
+        "hash": "thumbnail_logo_4b74a97ec8",
         "mime": "image/webp",
         "name": "thumbnail_logo.webp",
         "path": null,
-        "size": 6.7,
-        "width": 190,
+        "size": 5.75,
+        "width": 156,
         "height": 156,
-        "sizeInBytes": 6696
+        "sizeInBytes": 5746
       }
     }
   },
   "popup_logo": {
-    "id": 83,
+    "id": 112,
     "name": "logo.webp",
-    "url": "/uploads/logo_fd3bd4216b.webp",
+    "url": "/uploads/logo_e3274912de.webp",
     "formats": {
-      "small": {
-        "ext": ".webp",
-        "url": "/uploads/small_logo_fd3bd4216b.webp",
-        "hash": "small_logo_fd3bd4216b",
-        "mime": "image/webp",
-        "name": "small_logo.webp",
-        "path": null,
-        "size": 23.25,
-        "width": 500,
-        "height": 411,
-        "sizeInBytes": 23246
-      },
       "thumbnail": {
         "ext": ".webp",
-        "url": "/uploads/thumbnail_logo_fd3bd4216b.webp",
-        "hash": "thumbnail_logo_fd3bd4216b",
+        "url": "/uploads/thumbnail_logo_e3274912de.webp",
+        "hash": "thumbnail_logo_e3274912de",
         "mime": "image/webp",
         "name": "thumbnail_logo.webp",
         "path": null,
-        "size": 6.7,
-        "width": 190,
+        "size": 5.75,
+        "width": 156,
         "height": 156,
-        "sizeInBytes": 6696
+        "sizeInBytes": 5746
       }
     }
   },
@@ -407,8 +383,8 @@
       "submenu": []
     }
   ],
-  "_generated_at": "2026-04-08T19:55:02.171Z",
+  "_generated_at": "2026-04-09T17:08:10.422Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-04-08T19:55:03.832Z",
-  "_deploy_trigger": "3t3p8u"
+  "_last_deploy": "2026-04-09T17:08:10.965Z",
+  "_deploy_trigger": "onwz56"
 }
